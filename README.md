@@ -1,4 +1,4 @@
-# IoT Security with Machine Learning: Real-Time Threat Detection
+# IoT Security with Machine Learning: Threat Detection
 
 ⚠️ This project is focused solely on detecting and classifying the type of cyber threat present in IoT network traffic; it does not directly counter or block the attacks themselves.
 
