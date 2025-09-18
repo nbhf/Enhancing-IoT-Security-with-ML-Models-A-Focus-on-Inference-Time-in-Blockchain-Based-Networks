@@ -1,6 +1,6 @@
 # IoT Security with Machine Learning: Threat Detection
 
-⚠️ This project is focused solely on detecting and classifying the type of cyber threat present in IoT network traffic; it does not directly counter or block the attacks themselves.
+⚠️ This project is focused solely on detecting the presence of cyber-threat in IoT network traffic; it does not directly counter or block the attacks themselves.
 
 This repository contains the implementation and testing of machine learning models for **IoT network security**, focusing on the critical balance between **detection accuracy** and **inference speed**. Our research addresses the growing challenge of securing IoT devices against cyber threats while ensuring security systems respond fast enough for protection.
 
