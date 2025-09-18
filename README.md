@@ -2,7 +2,7 @@
 
 ⚠️ This project is focused solely on detecting and classifying the type of cyber threat present in IoT network traffic; it does not directly counter or block the attacks themselves.
 
-This repository contains the implementation and testing of machine learning models for **real-time IoT network security**, focusing on the critical balance between **detection accuracy** and **inference speed**. Our research addresses the growing challenge of securing IoT devices against cyber threats while ensuring security systems respond fast enough for real-time protection.
+This repository contains the implementation and testing of machine learning models for **IoT network security**, focusing on the critical balance between **detection accuracy** and **inference speed**. Our research addresses the growing challenge of securing IoT devices against cyber threats while ensuring security systems respond fast enough for protection.
 
 We tested **7 machine learning algorithms** on two standard cybersecurity datasets to find the optimal balance between accuracy and speed for IoT security applications:
 
